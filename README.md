@@ -36,7 +36,7 @@ Tampilan Tampilan Tersebut merupakan hasil gambar dari bagaian web ketika di scr
 
 ---
 
-### 4) Profil • Kerjasama • Kontak (index3.html)
+### 4) Profil • Kerjasama • Kontak (kontak.html)
 ![Profil & Kerjasama](./screnshoot/contact.png)
 
 *Penjelasan*  
