@@ -46,7 +46,7 @@ Tampilan Tampilan Tersebut merupakan hasil gambar dari bagaian web ketika di scr
 
 ## 📹 Demo Video
 
-Tonton demo lengkap di YouTube: **(https://youtu.be/jtCvg793BS4?si=9AxCTilfZgazy8c4)**
+Tonton demo lengkap di YouTube: **(https://youtu.be/jtCvg793BS4?si=zRLOtNygoIXlUU6W)**
 
 
 
