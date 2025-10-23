@@ -1,6 +1,6 @@
 # Portofolio-Alif-PBP 23-10-2025
 
-Proyek ini adalah halaman portfolio sederhana dengan menerapkan html/cs/js.  
+Proyek ini adalah halaman portfolio sederhana dengan menerapkan html/css/js.  
 Struktur terdiri dari empat halaman utama:
 
 - home.html – Landing/Portfolio (Home, About, Projects, Contact)
